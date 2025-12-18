@@ -1,0 +1,134 @@
+Accomack County, 51001 FIPS Code, Virginia
+Albemarle County, 51003 FIPS Code, Virginia
+Alexandria County, 51510 FIPS Code, Virginia
+Alleghany County, 51005 FIPS Code, Virginia
+Amelia County, 51007 FIPS Code, Virginia
+Amherst County, 51009 FIPS Code, Virginia
+Appomattox County, 51011 FIPS Code, Virginia
+Arlington County, 51013 FIPS Code, Virginia
+Augusta County, 51015 FIPS Code, Virginia
+Bath County, 51017 FIPS Code, Virginia
+Bedford City County, 51515 FIPS Code, Virginia
+Bedford County County, 51019 FIPS Code, Virginia
+Bland County, 51021 FIPS Code, Virginia
+Botetourt County, 51023 FIPS Code, Virginia
+Bristol County, 51520 FIPS Code, Virginia
+Brunswick County, 51025 FIPS Code, Virginia
+Buchanan County, 51027 FIPS Code, Virginia
+Buckingham County, 51029 FIPS Code, Virginia
+Buena Vista County, 51530 FIPS Code, Virginia
+Campbell County, 51031 FIPS Code, Virginia
+Caroline County, 51033 FIPS Code, Virginia
+Carroll County, 51035 FIPS Code, Virginia
+Charles City County, 51036 FIPS Code, Virginia
+Charlotte County, 51037 FIPS Code, Virginia
+Charlottesville County, 51540 FIPS Code, Virginia
+Chesapeake County, 51550 FIPS Code, Virginia
+Chesterfield County, 51041 FIPS Code, Virginia
+Clarke County, 51043 FIPS Code, Virginia
+Colonial Heights County, 51570 FIPS Code, Virginia
+Covington County, 51580 FIPS Code, Virginia
+Craig County, 51045 FIPS Code, Virginia
+Culpeper County, 51047 FIPS Code, Virginia
+Cumberland County, 51049 FIPS Code, Virginia
+Danville County, 51590 FIPS Code, Virginia
+Dickenson County, 51051 FIPS Code, Virginia
+Dinwiddie County, 51053 FIPS Code, Virginia
+Emporia County, 51595 FIPS Code, Virginia
+Essex County, 51057 FIPS Code, Virginia
+Fairfax City County, 51600 FIPS Code, Virginia
+Fairfax County County, 51059 FIPS Code, Virginia
+Falls Church County, 51610 FIPS Code, Virginia
+Fauquier County, 51061 FIPS Code, Virginia
+Floyd County, 51063 FIPS Code, Virginia
+Fluvanna County, 51065 FIPS Code, Virginia
+Franklin City County, 51620 FIPS Code, Virginia
+Franklin County County, 51067 FIPS Code, Virginia
+Frederick County, 51069 FIPS Code, Virginia
+Fredericksburg County, 51630 FIPS Code, Virginia
+Galax County, 51640 FIPS Code, Virginia
+Giles County, 51071 FIPS Code, Virginia
+Gloucester County, 51073 FIPS Code, Virginia
+Goochland County, 51075 FIPS Code, Virginia
+Grayson County, 51077 FIPS Code, Virginia
+Greene County, 51079 FIPS Code, Virginia
+Greensville County, 51081 FIPS Code, Virginia
+Halifax County, 51083 FIPS Code, Virginia
+Hampton County, 51650 FIPS Code, Virginia
+Hanover County, 51085 FIPS Code, Virginia
+Harrisonburg County, 51660 FIPS Code, Virginia
+Henrico County, 51087 FIPS Code, Virginia
+Henry County, 51089 FIPS Code, Virginia
+Highland County, 51091 FIPS Code, Virginia
+Hopewell County, 51670 FIPS Code, Virginia
+Isle of Wight County, 51093 FIPS Code, Virginia
+James City County, 51095 FIPS Code, Virginia
+King and Queen County, 51097 FIPS Code, Virginia
+King George County, 51099 FIPS Code, Virginia
+King William County, 51101 FIPS Code, Virginia
+Lancaster County, 51103 FIPS Code, Virginia
+Lee County, 51105 FIPS Code, Virginia
+Lexington County, 51678 FIPS Code, Virginia
+Loudoun County, 51107 FIPS Code, Virginia
+Louisa County, 51109 FIPS Code, Virginia
+Lunenburg County, 51111 FIPS Code, Virginia
+Lynchburg County, 51680 FIPS Code, Virginia
+Madison County, 51113 FIPS Code, Virginia
+Manassas County, 51683 FIPS Code, Virginia
+Manassas Park County, 51685 FIPS Code, Virginia
+Martinsville County, 51690 FIPS Code, Virginia
+Mathews County, 51115 FIPS Code, Virginia
+Mecklenburg County, 51117 FIPS Code, Virginia
+Middlesex County, 51119 FIPS Code, Virginia
+Montgomery County, 51121 FIPS Code, Virginia
+Nelson County, 51125 FIPS Code, Virginia
+New Kent County, 51127 FIPS Code, Virginia
+Newport News County, 51700 FIPS Code, Virginia
+Norfolk County, 51710 FIPS Code, Virginia
+Northampton County, 51131 FIPS Code, Virginia
+Northumberland County, 51133 FIPS Code, Virginia
+Norton County, 51720 FIPS Code, Virginia
+Nottoway County, 51135 FIPS Code, Virginia
+Orange County, 51137 FIPS Code, Virginia
+Page County, 51139 FIPS Code, Virginia
+Patrick County, 51141 FIPS Code, Virginia
+Petersburg County, 51730 FIPS Code, Virginia
+Pittsylvania County, 51143 FIPS Code, Virginia
+Poquoson County, 51735 FIPS Code, Virginia
+Portsmouth County, 51740 FIPS Code, Virginia
+Powhatan County, 51145 FIPS Code, Virginia
+Prince Edward County, 51147 FIPS Code, Virginia
+Prince George County, 51149 FIPS Code, Virginia
+Prince William County, 51153 FIPS Code, Virginia
+Pulaski County, 51155 FIPS Code, Virginia
+Radford County, 51750 FIPS Code, Virginia
+Rappahannock County, 51157 FIPS Code, Virginia
+Richmond City County, 51760 FIPS Code, Virginia
+Richmond County County, 51159 FIPS Code, Virginia
+Roanoke City County, 51770 FIPS Code, Virginia
+Roanoke County County, 51161 FIPS Code, Virginia
+Rockbridge County, 51163 FIPS Code, Virginia
+Rockingham County, 51165 FIPS Code, Virginia
+Russell County, 51167 FIPS Code, Virginia
+Salem County, 51775 FIPS Code, Virginia
+Scott County, 51169 FIPS Code, Virginia
+Shenandoah County, 51171 FIPS Code, Virginia
+Smyth County, 51173 FIPS Code, Virginia
+Southampton County, 51175 FIPS Code, Virginia
+Spotsylvania County, 51177 FIPS Code, Virginia
+Stafford County, 51179 FIPS Code, Virginia
+Staunton County, 51790 FIPS Code, Virginia
+Suffolk County, 51800 FIPS Code, Virginia
+Surry County, 51181 FIPS Code, Virginia
+Sussex County, 51183 FIPS Code, Virginia
+Tazewell County, 51185 FIPS Code, Virginia
+Virginia Beach County, 51810 FIPS Code, Virginia
+Warren County, 51187 FIPS Code, Virginia
+Washington County, 51191 FIPS Code, Virginia
+Waynesboro County, 51820 FIPS Code, Virginia
+Westmoreland County, 51193 FIPS Code, Virginia
+Williamsburg County, 51830 FIPS Code, Virginia
+Winchester County, 51840 FIPS Code, Virginia
+Wise County, 51195 FIPS Code, Virginia
+Wythe County, 51197 FIPS Code, Virginia
+York County, 51199 FIPS Code, Virginia

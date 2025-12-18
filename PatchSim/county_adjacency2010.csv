@@ -1,0 +1,858 @@
+countyname,fipscounty,neighborname,fipsneighbor
+"Accomack County, VA",51001,"Somerset County, MD",24039
+"Accomack County, VA",51001,"Worcester County, MD",24047
+"Accomack County, VA",51001,"Accomack County, VA",51001
+"Accomack County, VA",51001,"Lancaster County, VA",51103
+"Accomack County, VA",51001,"Mathews County, VA",51115
+"Accomack County, VA",51001,"Middlesex County, VA",51119
+"Accomack County, VA",51001,"Northampton County, VA",51131
+"Accomack County, VA",51001,"Northumberland County, VA",51133
+"Albemarle County, VA",51003,"Albemarle County, VA",51003
+"Albemarle County, VA",51003,"Augusta County, VA",51015
+"Albemarle County, VA",51003,"Buckingham County, VA",51029
+"Albemarle County, VA",51003,"Fluvanna County, VA",51065
+"Albemarle County, VA",51003,"Greene County, VA",51079
+"Albemarle County, VA",51003,"Louisa County, VA",51109
+"Albemarle County, VA",51003,"Nelson County, VA",51125
+"Albemarle County, VA",51003,"Orange County, VA",51137
+"Albemarle County, VA",51003,"Rockingham County, VA",51165
+"Albemarle County, VA",51003,"Charlottesville city, VA",51540
+"Alleghany County, VA",51005,"Alleghany County, VA",51005
+"Alleghany County, VA",51005,"Bath County, VA",51017
+"Alleghany County, VA",51005,"Botetourt County, VA",51023
+"Alleghany County, VA",51005,"Craig County, VA",51045
+"Alleghany County, VA",51005,"Rockbridge County, VA",51163
+"Alleghany County, VA",51005,"Covington city, VA",51580
+"Alleghany County, VA",51005,"Greenbrier County, WV",54025
+"Alleghany County, VA",51005,"Monroe County, WV",54063
+"Amelia County, VA",51007,"Amelia County, VA",51007
+"Amelia County, VA",51007,"Chesterfield County, VA",51041
+"Amelia County, VA",51007,"Cumberland County, VA",51049
+"Amelia County, VA",51007,"Dinwiddie County, VA",51053
+"Amelia County, VA",51007,"Nottoway County, VA",51135
+"Amelia County, VA",51007,"Powhatan County, VA",51145
+"Amelia County, VA",51007,"Prince Edward County, VA",51147
+"Amherst County, VA",51009,"Amherst County, VA",51009
+"Amherst County, VA",51009,"Appomattox County, VA",51011
+"Amherst County, VA",51009,"Bedford County, VA",51019
+"Amherst County, VA",51009,"Campbell County, VA",51031
+"Amherst County, VA",51009,"Nelson County, VA",51125
+"Amherst County, VA",51009,"Rockbridge County, VA",51163
+"Amherst County, VA",51009,"Lynchburg city, VA",51680
+"Appomattox County, VA",51011,"Amherst County, VA",51009
+"Appomattox County, VA",51011,"Appomattox County, VA",51011
+"Appomattox County, VA",51011,"Buckingham County, VA",51029
+"Appomattox County, VA",51011,"Campbell County, VA",51031
+"Appomattox County, VA",51011,"Charlotte County, VA",51037
+"Appomattox County, VA",51011,"Nelson County, VA",51125
+"Appomattox County, VA",51011,"Prince Edward County, VA",51147
+"Arlington County, VA",51013,"District of Columbia, DC",11001
+"Arlington County, VA",51013,"Montgomery County, MD",24031
+"Arlington County, VA",51013,"Arlington County, VA",51013
+"Arlington County, VA",51013,"Fairfax County, VA",51059
+"Arlington County, VA",51013,"Alexandria city, VA",51510
+"Arlington County, VA",51013,"Falls Church city, VA",51610
+"Augusta County, VA",51015,"Albemarle County, VA",51003
+"Augusta County, VA",51015,"Augusta County, VA",51015
+"Augusta County, VA",51015,"Bath County, VA",51017
+"Augusta County, VA",51015,"Highland County, VA",51091
+"Augusta County, VA",51015,"Nelson County, VA",51125
+"Augusta County, VA",51015,"Rockbridge County, VA",51163
+"Augusta County, VA",51015,"Rockingham County, VA",51165
+"Augusta County, VA",51015,"Staunton city, VA",51790
+"Augusta County, VA",51015,"Waynesboro city, VA",51820
+"Augusta County, VA",51015,"Pendleton County, WV",54071
+"Bath County, VA",51017,"Alleghany County, VA",51005
+"Bath County, VA",51017,"Augusta County, VA",51015
+"Bath County, VA",51017,"Bath County, VA",51017
+"Bath County, VA",51017,"Highland County, VA",51091
+"Bath County, VA",51017,"Rockbridge County, VA",51163
+"Bath County, VA",51017,"Greenbrier County, WV",54025
+"Bath County, VA",51017,"Pocahontas County, WV",54075
+"Bedford County, VA",51019,"Amherst County, VA",51009
+"Bedford County, VA",51019,"Bedford County, VA",51019
+"Bedford County, VA",51019,"Botetourt County, VA",51023
+"Bedford County, VA",51019,"Campbell County, VA",51031
+"Bedford County, VA",51019,"Franklin County, VA",51067
+"Bedford County, VA",51019,"Pittsylvania County, VA",51143
+"Bedford County, VA",51019,"Roanoke County, VA",51161
+"Bedford County, VA",51019,"Rockbridge County, VA",51163
+"Bedford County, VA",51019,"Bedford city, VA",51515
+"Bedford County, VA",51019,"Lynchburg city, VA",51680
+"Bland County, VA",51021,"Bland County, VA",51021
+"Bland County, VA",51021,"Giles County, VA",51071
+"Bland County, VA",51021,"Pulaski County, VA",51155
+"Bland County, VA",51021,"Smyth County, VA",51173
+"Bland County, VA",51021,"Tazewell County, VA",51185
+"Bland County, VA",51021,"Wythe County, VA",51197
+"Bland County, VA",51021,"Mercer County, WV",54055
+"Botetourt County, VA",51023,"Alleghany County, VA",51005
+"Botetourt County, VA",51023,"Bedford County, VA",51019
+"Botetourt County, VA",51023,"Botetourt County, VA",51023
+"Botetourt County, VA",51023,"Craig County, VA",51045
+"Botetourt County, VA",51023,"Roanoke County, VA",51161
+"Botetourt County, VA",51023,"Rockbridge County, VA",51163
+"Brunswick County, VA",51025,"Northampton County, NC",37131
+"Brunswick County, VA",51025,"Warren County, NC",37185
+"Brunswick County, VA",51025,"Brunswick County, VA",51025
+"Brunswick County, VA",51025,"Dinwiddie County, VA",51053
+"Brunswick County, VA",51025,"Greensville County, VA",51081
+"Brunswick County, VA",51025,"Lunenburg County, VA",51111
+"Brunswick County, VA",51025,"Mecklenburg County, VA",51117
+"Brunswick County, VA",51025,"Nottoway County, VA",51135
+"Buchanan County, VA",51027,"Pike County, KY",21195
+"Buchanan County, VA",51027,"Buchanan County, VA",51027
+"Buchanan County, VA",51027,"Dickenson County, VA",51051
+"Buchanan County, VA",51027,"Russell County, VA",51167
+"Buchanan County, VA",51027,"Tazewell County, VA",51185
+"Buchanan County, VA",51027,"McDowell County, WV",54047
+"Buchanan County, VA",51027,"Mingo County, WV",54059
+"Buckingham County, VA",51029,"Albemarle County, VA",51003
+"Buckingham County, VA",51029,"Appomattox County, VA",51011
+"Buckingham County, VA",51029,"Buckingham County, VA",51029
+"Buckingham County, VA",51029,"Cumberland County, VA",51049
+"Buckingham County, VA",51029,"Fluvanna County, VA",51065
+"Buckingham County, VA",51029,"Nelson County, VA",51125
+"Buckingham County, VA",51029,"Prince Edward County, VA",51147
+"Campbell County, VA",51031,"Amherst County, VA",51009
+"Campbell County, VA",51031,"Appomattox County, VA",51011
+"Campbell County, VA",51031,"Bedford County, VA",51019
+"Campbell County, VA",51031,"Campbell County, VA",51031
+"Campbell County, VA",51031,"Charlotte County, VA",51037
+"Campbell County, VA",51031,"Halifax County, VA",51083
+"Campbell County, VA",51031,"Pittsylvania County, VA",51143
+"Campbell County, VA",51031,"Lynchburg city, VA",51680
+"Caroline County, VA",51033,"Caroline County, VA",51033
+"Caroline County, VA",51033,"Essex County, VA",51057
+"Caroline County, VA",51033,"Hanover County, VA",51085
+"Caroline County, VA",51033,"King and Queen County, VA",51097
+"Caroline County, VA",51033,"King George County, VA",51099
+"Caroline County, VA",51033,"King William County, VA",51101
+"Caroline County, VA",51033,"Spotsylvania County, VA",51177
+"Caroline County, VA",51033,"Stafford County, VA",51179
+"Carroll County, VA",51035,"Surry County, NC",37171
+"Carroll County, VA",51035,"Carroll County, VA",51035
+"Carroll County, VA",51035,"Floyd County, VA",51063
+"Carroll County, VA",51035,"Grayson County, VA",51077
+"Carroll County, VA",51035,"Patrick County, VA",51141
+"Carroll County, VA",51035,"Pulaski County, VA",51155
+"Carroll County, VA",51035,"Wythe County, VA",51197
+"Carroll County, VA",51035,"Galax city, VA",51640
+"Charles City County, VA",51036,"Charles City County, VA",51036
+"Charles City County, VA",51036,"Chesterfield County, VA",51041
+"Charles City County, VA",51036,"Henrico County, VA",51087
+"Charles City County, VA",51036,"James City County, VA",51095
+"Charles City County, VA",51036,"New Kent County, VA",51127
+"Charles City County, VA",51036,"Prince George County, VA",51149
+"Charles City County, VA",51036,"Surry County, VA",51181
+"Charlotte County, VA",51037,"Appomattox County, VA",51011
+"Charlotte County, VA",51037,"Campbell County, VA",51031
+"Charlotte County, VA",51037,"Charlotte County, VA",51037
+"Charlotte County, VA",51037,"Halifax County, VA",51083
+"Charlotte County, VA",51037,"Lunenburg County, VA",51111
+"Charlotte County, VA",51037,"Mecklenburg County, VA",51117
+"Charlotte County, VA",51037,"Prince Edward County, VA",51147
+"Chesterfield County, VA",51041,"Amelia County, VA",51007
+"Chesterfield County, VA",51041,"Charles City County, VA",51036
+"Chesterfield County, VA",51041,"Chesterfield County, VA",51041
+"Chesterfield County, VA",51041,"Dinwiddie County, VA",51053
+"Chesterfield County, VA",51041,"Goochland County, VA",51075
+"Chesterfield County, VA",51041,"Henrico County, VA",51087
+"Chesterfield County, VA",51041,"Powhatan County, VA",51145
+"Chesterfield County, VA",51041,"Prince George County, VA",51149
+"Chesterfield County, VA",51041,"Colonial Heights city, VA",51570
+"Chesterfield County, VA",51041,"Hopewell city, VA",51670
+"Chesterfield County, VA",51041,"Petersburg city, VA",51730
+"Chesterfield County, VA",51041,"Richmond city, VA",51760
+"Clarke County, VA",51043,"Clarke County, VA",51043
+"Clarke County, VA",51043,"Fauquier County, VA",51061
+"Clarke County, VA",51043,"Frederick County, VA",51069
+"Clarke County, VA",51043,"Loudoun County, VA",51107
+"Clarke County, VA",51043,"Warren County, VA",51187
+"Clarke County, VA",51043,"Berkeley County, WV",54003
+"Clarke County, VA",51043,"Jefferson County, WV",54037
+"Craig County, VA",51045,"Alleghany County, VA",51005
+"Craig County, VA",51045,"Botetourt County, VA",51023
+"Craig County, VA",51045,"Craig County, VA",51045
+"Craig County, VA",51045,"Giles County, VA",51071
+"Craig County, VA",51045,"Montgomery County, VA",51121
+"Craig County, VA",51045,"Roanoke County, VA",51161
+"Craig County, VA",51045,"Monroe County, WV",54063
+"Culpeper County, VA",51047,"Culpeper County, VA",51047
+"Culpeper County, VA",51047,"Fauquier County, VA",51061
+"Culpeper County, VA",51047,"Madison County, VA",51113
+"Culpeper County, VA",51047,"Orange County, VA",51137
+"Culpeper County, VA",51047,"Rappahannock County, VA",51157
+"Culpeper County, VA",51047,"Spotsylvania County, VA",51177
+"Culpeper County, VA",51047,"Stafford County, VA",51179
+"Cumberland County, VA",51049,"Amelia County, VA",51007
+"Cumberland County, VA",51049,"Buckingham County, VA",51029
+"Cumberland County, VA",51049,"Cumberland County, VA",51049
+"Cumberland County, VA",51049,"Fluvanna County, VA",51065
+"Cumberland County, VA",51049,"Goochland County, VA",51075
+"Cumberland County, VA",51049,"Powhatan County, VA",51145
+"Cumberland County, VA",51049,"Prince Edward County, VA",51147
+"Dickenson County, VA",51051,"Pike County, KY",21195
+"Dickenson County, VA",51051,"Buchanan County, VA",51027
+"Dickenson County, VA",51051,"Dickenson County, VA",51051
+"Dickenson County, VA",51051,"Russell County, VA",51167
+"Dickenson County, VA",51051,"Wise County, VA",51195
+"Dinwiddie County, VA",51053,"Amelia County, VA",51007
+"Dinwiddie County, VA",51053,"Brunswick County, VA",51025
+"Dinwiddie County, VA",51053,"Chesterfield County, VA",51041
+"Dinwiddie County, VA",51053,"Dinwiddie County, VA",51053
+"Dinwiddie County, VA",51053,"Greensville County, VA",51081
+"Dinwiddie County, VA",51053,"Nottoway County, VA",51135
+"Dinwiddie County, VA",51053,"Prince George County, VA",51149
+"Dinwiddie County, VA",51053,"Sussex County, VA",51183
+"Dinwiddie County, VA",51053,"Petersburg city, VA",51730
+"Essex County, VA",51057,"Caroline County, VA",51033
+"Essex County, VA",51057,"Essex County, VA",51057
+"Essex County, VA",51057,"King and Queen County, VA",51097
+"Essex County, VA",51057,"King George County, VA",51099
+"Essex County, VA",51057,"Lancaster County, VA",51103
+"Essex County, VA",51057,"Middlesex County, VA",51119
+"Essex County, VA",51057,"Richmond County, VA",51159
+"Essex County, VA",51057,"Westmoreland County, VA",51193
+"Fairfax County, VA",51059,"District of Columbia, DC",11001
+"Fairfax County, VA",51059,"Charles County, MD",24017
+"Fairfax County, VA",51059,"Montgomery County, MD",24031
+"Fairfax County, VA",51059,"Prince George's County, MD",24033
+"Fairfax County, VA",51059,"Arlington County, VA",51013
+"Fairfax County, VA",51059,"Fairfax County, VA",51059
+"Fairfax County, VA",51059,"Loudoun County, VA",51107
+"Fairfax County, VA",51059,"Prince William County, VA",51153
+"Fairfax County, VA",51059,"Alexandria city, VA",51510
+"Fairfax County, VA",51059,"Fairfax city, VA",51600
+"Fairfax County, VA",51059,"Falls Church city, VA",51610
+"Fauquier County, VA",51061,"Clarke County, VA",51043
+"Fauquier County, VA",51061,"Culpeper County, VA",51047
+"Fauquier County, VA",51061,"Fauquier County, VA",51061
+"Fauquier County, VA",51061,"Loudoun County, VA",51107
+"Fauquier County, VA",51061,"Prince William County, VA",51153
+"Fauquier County, VA",51061,"Rappahannock County, VA",51157
+"Fauquier County, VA",51061,"Stafford County, VA",51179
+"Fauquier County, VA",51061,"Warren County, VA",51187
+"Floyd County, VA",51063,"Carroll County, VA",51035
+"Floyd County, VA",51063,"Floyd County, VA",51063
+"Floyd County, VA",51063,"Franklin County, VA",51067
+"Floyd County, VA",51063,"Montgomery County, VA",51121
+"Floyd County, VA",51063,"Patrick County, VA",51141
+"Floyd County, VA",51063,"Pulaski County, VA",51155
+"Floyd County, VA",51063,"Roanoke County, VA",51161
+"Fluvanna County, VA",51065,"Albemarle County, VA",51003
+"Fluvanna County, VA",51065,"Buckingham County, VA",51029
+"Fluvanna County, VA",51065,"Cumberland County, VA",51049
+"Fluvanna County, VA",51065,"Fluvanna County, VA",51065
+"Fluvanna County, VA",51065,"Goochland County, VA",51075
+"Fluvanna County, VA",51065,"Louisa County, VA",51109
+"Franklin County, VA",51067,"Bedford County, VA",51019
+"Franklin County, VA",51067,"Floyd County, VA",51063
+"Franklin County, VA",51067,"Franklin County, VA",51067
+"Franklin County, VA",51067,"Henry County, VA",51089
+"Franklin County, VA",51067,"Patrick County, VA",51141
+"Franklin County, VA",51067,"Pittsylvania County, VA",51143
+"Franklin County, VA",51067,"Roanoke County, VA",51161
+"Frederick County, VA",51069,"Clarke County, VA",51043
+"Frederick County, VA",51069,"Frederick County, VA",51069
+"Frederick County, VA",51069,"Shenandoah County, VA",51171
+"Frederick County, VA",51069,"Warren County, VA",51187
+"Frederick County, VA",51069,"Winchester city, VA",51840
+"Frederick County, VA",51069,"Berkeley County, WV",54003
+"Frederick County, VA",51069,"Hampshire County, WV",54027
+"Frederick County, VA",51069,"Hardy County, WV",54031
+"Frederick County, VA",51069,"Jefferson County, WV",54037
+"Frederick County, VA",51069,"Morgan County, WV",54065
+"Giles County, VA",51071,"Bland County, VA",51021
+"Giles County, VA",51071,"Craig County, VA",51045
+"Giles County, VA",51071,"Giles County, VA",51071
+"Giles County, VA",51071,"Montgomery County, VA",51121
+"Giles County, VA",51071,"Pulaski County, VA",51155
+"Giles County, VA",51071,"Mercer County, WV",54055
+"Giles County, VA",51071,"Monroe County, WV",54063
+"Giles County, VA",51071,"Summers County, WV",54089
+"Gloucester County, VA",51073,"Gloucester County, VA",51073
+"Gloucester County, VA",51073,"James City County, VA",51095
+"Gloucester County, VA",51073,"King and Queen County, VA",51097
+"Gloucester County, VA",51073,"Mathews County, VA",51115
+"Gloucester County, VA",51073,"Middlesex County, VA",51119
+"Gloucester County, VA",51073,"York County, VA",51199
+"Goochland County, VA",51075,"Chesterfield County, VA",51041
+"Goochland County, VA",51075,"Cumberland County, VA",51049
+"Goochland County, VA",51075,"Fluvanna County, VA",51065
+"Goochland County, VA",51075,"Goochland County, VA",51075
+"Goochland County, VA",51075,"Hanover County, VA",51085
+"Goochland County, VA",51075,"Henrico County, VA",51087
+"Goochland County, VA",51075,"Louisa County, VA",51109
+"Goochland County, VA",51075,"Powhatan County, VA",51145
+"Grayson County, VA",51077,"Alleghany County, NC",37005
+"Grayson County, VA",51077,"Ashe County, NC",37009
+"Grayson County, VA",51077,"Surry County, NC",37171
+"Grayson County, VA",51077,"Johnson County, TN",47091
+"Grayson County, VA",51077,"Carroll County, VA",51035
+"Grayson County, VA",51077,"Grayson County, VA",51077
+"Grayson County, VA",51077,"Smyth County, VA",51173
+"Grayson County, VA",51077,"Washington County, VA",51191
+"Grayson County, VA",51077,"Wythe County, VA",51197
+"Grayson County, VA",51077,"Galax city, VA",51640
+"Greene County, VA",51079,"Albemarle County, VA",51003
+"Greene County, VA",51079,"Greene County, VA",51079
+"Greene County, VA",51079,"Madison County, VA",51113
+"Greene County, VA",51079,"Orange County, VA",51137
+"Greene County, VA",51079,"Page County, VA",51139
+"Greene County, VA",51079,"Rockingham County, VA",51165
+"Greensville County, VA",51081,"Northampton County, NC",37131
+"Greensville County, VA",51081,"Brunswick County, VA",51025
+"Greensville County, VA",51081,"Dinwiddie County, VA",51053
+"Greensville County, VA",51081,"Greensville County, VA",51081
+"Greensville County, VA",51081,"Southampton County, VA",51175
+"Greensville County, VA",51081,"Sussex County, VA",51183
+"Greensville County, VA",51081,"Emporia city, VA",51595
+"Halifax County, VA",51083,"Caswell County, NC",37033
+"Halifax County, VA",51083,"Granville County, NC",37077
+"Halifax County, VA",51083,"Person County, NC",37145
+"Halifax County, VA",51083,"Campbell County, VA",51031
+"Halifax County, VA",51083,"Charlotte County, VA",51037
+"Halifax County, VA",51083,"Halifax County, VA",51083
+"Halifax County, VA",51083,"Mecklenburg County, VA",51117
+"Halifax County, VA",51083,"Pittsylvania County, VA",51143
+"Hanover County, VA",51085,"Caroline County, VA",51033
+"Hanover County, VA",51085,"Goochland County, VA",51075
+"Hanover County, VA",51085,"Hanover County, VA",51085
+"Hanover County, VA",51085,"Henrico County, VA",51087
+"Hanover County, VA",51085,"King William County, VA",51101
+"Hanover County, VA",51085,"Louisa County, VA",51109
+"Hanover County, VA",51085,"New Kent County, VA",51127
+"Hanover County, VA",51085,"Spotsylvania County, VA",51177
+"Henrico County, VA",51087,"Charles City County, VA",51036
+"Henrico County, VA",51087,"Chesterfield County, VA",51041
+"Henrico County, VA",51087,"Goochland County, VA",51075
+"Henrico County, VA",51087,"Hanover County, VA",51085
+"Henrico County, VA",51087,"Henrico County, VA",51087
+"Henrico County, VA",51087,"New Kent County, VA",51127
+"Henrico County, VA",51087,"Powhatan County, VA",51145
+"Henrico County, VA",51087,"Richmond city, VA",51760
+"Henry County, VA",51089,"Rockingham County, NC",37157
+"Henry County, VA",51089,"Stokes County, NC",37169
+"Henry County, VA",51089,"Franklin County, VA",51067
+"Henry County, VA",51089,"Henry County, VA",51089
+"Henry County, VA",51089,"Patrick County, VA",51141
+"Henry County, VA",51089,"Pittsylvania County, VA",51143
+"Henry County, VA",51089,"Martinsville city, VA",51690
+"Highland County, VA",51091,"Augusta County, VA",51015
+"Highland County, VA",51091,"Bath County, VA",51017
+"Highland County, VA",51091,"Highland County, VA",51091
+"Highland County, VA",51091,"Pendleton County, WV",54071
+"Highland County, VA",51091,"Pocahontas County, WV",54075
+"Isle of Wight County, VA",51093,"Isle of Wight County, VA",51093
+"Isle of Wight County, VA",51093,"James City County, VA",51095
+"Isle of Wight County, VA",51093,"Southampton County, VA",51175
+"Isle of Wight County, VA",51093,"Surry County, VA",51181
+"Isle of Wight County, VA",51093,"Franklin city, VA",51620
+"Isle of Wight County, VA",51093,"Newport News city, VA",51700
+"Isle of Wight County, VA",51093,"Suffolk city, VA",51800
+"James City County, VA",51095,"Charles City County, VA",51036
+"James City County, VA",51095,"Gloucester County, VA",51073
+"James City County, VA",51095,"Isle of Wight County, VA",51093
+"James City County, VA",51095,"James City County, VA",51095
+"James City County, VA",51095,"King and Queen County, VA",51097
+"James City County, VA",51095,"New Kent County, VA",51127
+"James City County, VA",51095,"Surry County, VA",51181
+"James City County, VA",51095,"York County, VA",51199
+"James City County, VA",51095,"Newport News city, VA",51700
+"James City County, VA",51095,"Williamsburg city, VA",51830
+"King and Queen County, VA",51097,"Caroline County, VA",51033
+"King and Queen County, VA",51097,"Essex County, VA",51057
+"King and Queen County, VA",51097,"Gloucester County, VA",51073
+"King and Queen County, VA",51097,"James City County, VA",51095
+"King and Queen County, VA",51097,"King and Queen County, VA",51097
+"King and Queen County, VA",51097,"King William County, VA",51101
+"King and Queen County, VA",51097,"Middlesex County, VA",51119
+"King and Queen County, VA",51097,"New Kent County, VA",51127
+"King George County, VA",51099,"Charles County, MD",24017
+"King George County, VA",51099,"Caroline County, VA",51033
+"King George County, VA",51099,"Essex County, VA",51057
+"King George County, VA",51099,"King George County, VA",51099
+"King George County, VA",51099,"Stafford County, VA",51179
+"King George County, VA",51099,"Westmoreland County, VA",51193
+"King William County, VA",51101,"Caroline County, VA",51033
+"King William County, VA",51101,"Hanover County, VA",51085
+"King William County, VA",51101,"King and Queen County, VA",51097
+"King William County, VA",51101,"King William County, VA",51101
+"King William County, VA",51101,"New Kent County, VA",51127
+"Lancaster County, VA",51103,"Accomack County, VA",51001
+"Lancaster County, VA",51103,"Essex County, VA",51057
+"Lancaster County, VA",51103,"Lancaster County, VA",51103
+"Lancaster County, VA",51103,"Middlesex County, VA",51119
+"Lancaster County, VA",51103,"Northumberland County, VA",51133
+"Lancaster County, VA",51103,"Richmond County, VA",51159
+"Lee County, VA",51105,"Bell County, KY",21013
+"Lee County, VA",51105,"Harlan County, KY",21095
+"Lee County, VA",51105,"Claiborne County, TN",47025
+"Lee County, VA",51105,"Hancock County, TN",47067
+"Lee County, VA",51105,"Lee County, VA",51105
+"Lee County, VA",51105,"Scott County, VA",51169
+"Lee County, VA",51105,"Wise County, VA",51195
+"Loudoun County, VA",51107,"Frederick County, MD",24021
+"Loudoun County, VA",51107,"Montgomery County, MD",24031
+"Loudoun County, VA",51107,"Washington County, MD",24043
+"Loudoun County, VA",51107,"Clarke County, VA",51043
+"Loudoun County, VA",51107,"Fairfax County, VA",51059
+"Loudoun County, VA",51107,"Fauquier County, VA",51061
+"Loudoun County, VA",51107,"Loudoun County, VA",51107
+"Loudoun County, VA",51107,"Prince William County, VA",51153
+"Loudoun County, VA",51107,"Jefferson County, WV",54037
+"Louisa County, VA",51109,"Albemarle County, VA",51003
+"Louisa County, VA",51109,"Fluvanna County, VA",51065
+"Louisa County, VA",51109,"Goochland County, VA",51075
+"Louisa County, VA",51109,"Hanover County, VA",51085
+"Louisa County, VA",51109,"Louisa County, VA",51109
+"Louisa County, VA",51109,"Orange County, VA",51137
+"Louisa County, VA",51109,"Spotsylvania County, VA",51177
+"Lunenburg County, VA",51111,"Brunswick County, VA",51025
+"Lunenburg County, VA",51111,"Charlotte County, VA",51037
+"Lunenburg County, VA",51111,"Lunenburg County, VA",51111
+"Lunenburg County, VA",51111,"Mecklenburg County, VA",51117
+"Lunenburg County, VA",51111,"Nottoway County, VA",51135
+"Lunenburg County, VA",51111,"Prince Edward County, VA",51147
+"Madison County, VA",51113,"Culpeper County, VA",51047
+"Madison County, VA",51113,"Greene County, VA",51079
+"Madison County, VA",51113,"Madison County, VA",51113
+"Madison County, VA",51113,"Orange County, VA",51137
+"Madison County, VA",51113,"Page County, VA",51139
+"Madison County, VA",51113,"Rappahannock County, VA",51157
+"Mathews County, VA",51115,"Accomack County, VA",51001
+"Mathews County, VA",51115,"Gloucester County, VA",51073
+"Mathews County, VA",51115,"Mathews County, VA",51115
+"Mathews County, VA",51115,"Middlesex County, VA",51119
+"Mathews County, VA",51115,"Northampton County, VA",51131
+"Mathews County, VA",51115,"York County, VA",51199
+"Mecklenburg County, VA",51117,"Granville County, NC",37077
+"Mecklenburg County, VA",51117,"Vance County, NC",37181
+"Mecklenburg County, VA",51117,"Warren County, NC",37185
+"Mecklenburg County, VA",51117,"Brunswick County, VA",51025
+"Mecklenburg County, VA",51117,"Charlotte County, VA",51037
+"Mecklenburg County, VA",51117,"Halifax County, VA",51083
+"Mecklenburg County, VA",51117,"Lunenburg County, VA",51111
+"Mecklenburg County, VA",51117,"Mecklenburg County, VA",51117
+"Middlesex County, VA",51119,"Accomack County, VA",51001
+"Middlesex County, VA",51119,"Essex County, VA",51057
+"Middlesex County, VA",51119,"Gloucester County, VA",51073
+"Middlesex County, VA",51119,"King and Queen County, VA",51097
+"Middlesex County, VA",51119,"Lancaster County, VA",51103
+"Middlesex County, VA",51119,"Mathews County, VA",51115
+"Middlesex County, VA",51119,"Middlesex County, VA",51119
+"Middlesex County, VA",51119,"Northampton County, VA",51131
+"Middlesex County, VA",51119,"Richmond County, VA",51159
+"Montgomery County, VA",51121,"Craig County, VA",51045
+"Montgomery County, VA",51121,"Floyd County, VA",51063
+"Montgomery County, VA",51121,"Giles County, VA",51071
+"Montgomery County, VA",51121,"Montgomery County, VA",51121
+"Montgomery County, VA",51121,"Pulaski County, VA",51155
+"Montgomery County, VA",51121,"Roanoke County, VA",51161
+"Montgomery County, VA",51121,"Radford city, VA",51750
+"Nelson County, VA",51125,"Albemarle County, VA",51003
+"Nelson County, VA",51125,"Amherst County, VA",51009
+"Nelson County, VA",51125,"Appomattox County, VA",51011
+"Nelson County, VA",51125,"Augusta County, VA",51015
+"Nelson County, VA",51125,"Buckingham County, VA",51029
+"Nelson County, VA",51125,"Nelson County, VA",51125
+"Nelson County, VA",51125,"Rockbridge County, VA",51163
+"New Kent County, VA",51127,"Charles City County, VA",51036
+"New Kent County, VA",51127,"Hanover County, VA",51085
+"New Kent County, VA",51127,"Henrico County, VA",51087
+"New Kent County, VA",51127,"James City County, VA",51095
+"New Kent County, VA",51127,"King and Queen County, VA",51097
+"New Kent County, VA",51127,"King William County, VA",51101
+"New Kent County, VA",51127,"New Kent County, VA",51127
+"Northampton County, VA",51131,"Accomack County, VA",51001
+"Northampton County, VA",51131,"Mathews County, VA",51115
+"Northampton County, VA",51131,"Middlesex County, VA",51119
+"Northampton County, VA",51131,"Northampton County, VA",51131
+"Northampton County, VA",51131,"York County, VA",51199
+"Northampton County, VA",51131,"Hampton city, VA",51650
+"Northampton County, VA",51131,"Norfolk city, VA",51710
+"Northampton County, VA",51131,"Poquoson city, VA",51735
+"Northampton County, VA",51131,"Virginia Beach city, VA",51810
+"Northumberland County, VA",51133,"St. Mary's County, MD",24037
+"Northumberland County, VA",51133,"Somerset County, MD",24039
+"Northumberland County, VA",51133,"Accomack County, VA",51001
+"Northumberland County, VA",51133,"Lancaster County, VA",51103
+"Northumberland County, VA",51133,"Northumberland County, VA",51133
+"Northumberland County, VA",51133,"Richmond County, VA",51159
+"Northumberland County, VA",51133,"Westmoreland County, VA",51193
+"Nottoway County, VA",51135,"Amelia County, VA",51007
+"Nottoway County, VA",51135,"Brunswick County, VA",51025
+"Nottoway County, VA",51135,"Dinwiddie County, VA",51053
+"Nottoway County, VA",51135,"Lunenburg County, VA",51111
+"Nottoway County, VA",51135,"Nottoway County, VA",51135
+"Nottoway County, VA",51135,"Prince Edward County, VA",51147
+"Orange County, VA",51137,"Albemarle County, VA",51003
+"Orange County, VA",51137,"Culpeper County, VA",51047
+"Orange County, VA",51137,"Greene County, VA",51079
+"Orange County, VA",51137,"Louisa County, VA",51109
+"Orange County, VA",51137,"Madison County, VA",51113
+"Orange County, VA",51137,"Orange County, VA",51137
+"Orange County, VA",51137,"Spotsylvania County, VA",51177
+"Page County, VA",51139,"Greene County, VA",51079
+"Page County, VA",51139,"Madison County, VA",51113
+"Page County, VA",51139,"Page County, VA",51139
+"Page County, VA",51139,"Rappahannock County, VA",51157
+"Page County, VA",51139,"Rockingham County, VA",51165
+"Page County, VA",51139,"Shenandoah County, VA",51171
+"Page County, VA",51139,"Warren County, VA",51187
+"Patrick County, VA",51141,"Stokes County, NC",37169
+"Patrick County, VA",51141,"Surry County, NC",37171
+"Patrick County, VA",51141,"Carroll County, VA",51035
+"Patrick County, VA",51141,"Floyd County, VA",51063
+"Patrick County, VA",51141,"Franklin County, VA",51067
+"Patrick County, VA",51141,"Henry County, VA",51089
+"Patrick County, VA",51141,"Patrick County, VA",51141
+"Pittsylvania County, VA",51143,"Caswell County, NC",37033
+"Pittsylvania County, VA",51143,"Rockingham County, NC",37157
+"Pittsylvania County, VA",51143,"Bedford County, VA",51019
+"Pittsylvania County, VA",51143,"Campbell County, VA",51031
+"Pittsylvania County, VA",51143,"Franklin County, VA",51067
+"Pittsylvania County, VA",51143,"Halifax County, VA",51083
+"Pittsylvania County, VA",51143,"Henry County, VA",51089
+"Pittsylvania County, VA",51143,"Pittsylvania County, VA",51143
+"Pittsylvania County, VA",51143,"Danville city, VA",51590
+"Powhatan County, VA",51145,"Amelia County, VA",51007
+"Powhatan County, VA",51145,"Chesterfield County, VA",51041
+"Powhatan County, VA",51145,"Cumberland County, VA",51049
+"Powhatan County, VA",51145,"Goochland County, VA",51075
+"Powhatan County, VA",51145,"Henrico County, VA",51087
+"Powhatan County, VA",51145,"Powhatan County, VA",51145
+"Prince Edward County, VA",51147,"Amelia County, VA",51007
+"Prince Edward County, VA",51147,"Appomattox County, VA",51011
+"Prince Edward County, VA",51147,"Buckingham County, VA",51029
+"Prince Edward County, VA",51147,"Charlotte County, VA",51037
+"Prince Edward County, VA",51147,"Cumberland County, VA",51049
+"Prince Edward County, VA",51147,"Lunenburg County, VA",51111
+"Prince Edward County, VA",51147,"Nottoway County, VA",51135
+"Prince Edward County, VA",51147,"Prince Edward County, VA",51147
+"Prince George County, VA",51149,"Charles City County, VA",51036
+"Prince George County, VA",51149,"Chesterfield County, VA",51041
+"Prince George County, VA",51149,"Dinwiddie County, VA",51053
+"Prince George County, VA",51149,"Prince George County, VA",51149
+"Prince George County, VA",51149,"Surry County, VA",51181
+"Prince George County, VA",51149,"Sussex County, VA",51183
+"Prince George County, VA",51149,"Hopewell city, VA",51670
+"Prince George County, VA",51149,"Petersburg city, VA",51730
+"Prince William County, VA",51153,"Charles County, MD",24017
+"Prince William County, VA",51153,"Fairfax County, VA",51059
+"Prince William County, VA",51153,"Fauquier County, VA",51061
+"Prince William County, VA",51153,"Loudoun County, VA",51107
+"Prince William County, VA",51153,"Prince William County, VA",51153
+"Prince William County, VA",51153,"Stafford County, VA",51179
+"Prince William County, VA",51153,"Manassas city, VA",51683
+"Prince William County, VA",51153,"Manassas Park city, VA",51685
+"Pulaski County, VA",51155,"Bland County, VA",51021
+"Pulaski County, VA",51155,"Carroll County, VA",51035
+"Pulaski County, VA",51155,"Floyd County, VA",51063
+"Pulaski County, VA",51155,"Giles County, VA",51071
+"Pulaski County, VA",51155,"Montgomery County, VA",51121
+"Pulaski County, VA",51155,"Pulaski County, VA",51155
+"Pulaski County, VA",51155,"Wythe County, VA",51197
+"Pulaski County, VA",51155,"Radford city, VA",51750
+"Rappahannock County, VA",51157,"Culpeper County, VA",51047
+"Rappahannock County, VA",51157,"Fauquier County, VA",51061
+"Rappahannock County, VA",51157,"Madison County, VA",51113
+"Rappahannock County, VA",51157,"Page County, VA",51139
+"Rappahannock County, VA",51157,"Rappahannock County, VA",51157
+"Rappahannock County, VA",51157,"Warren County, VA",51187
+"Richmond County, VA",51159,"Essex County, VA",51057
+"Richmond County, VA",51159,"Lancaster County, VA",51103
+"Richmond County, VA",51159,"Middlesex County, VA",51119
+"Richmond County, VA",51159,"Northumberland County, VA",51133
+"Richmond County, VA",51159,"Richmond County, VA",51159
+"Richmond County, VA",51159,"Westmoreland County, VA",51193
+"Roanoke County, VA",51161,"Bedford County, VA",51019
+"Roanoke County, VA",51161,"Botetourt County, VA",51023
+"Roanoke County, VA",51161,"Craig County, VA",51045
+"Roanoke County, VA",51161,"Floyd County, VA",51063
+"Roanoke County, VA",51161,"Franklin County, VA",51067
+"Roanoke County, VA",51161,"Montgomery County, VA",51121
+"Roanoke County, VA",51161,"Roanoke County, VA",51161
+"Roanoke County, VA",51161,"Roanoke city, VA",51770
+"Roanoke County, VA",51161,"Salem city, VA",51775
+"Rockbridge County, VA",51163,"Alleghany County, VA",51005
+"Rockbridge County, VA",51163,"Amherst County, VA",51009
+"Rockbridge County, VA",51163,"Augusta County, VA",51015
+"Rockbridge County, VA",51163,"Bath County, VA",51017
+"Rockbridge County, VA",51163,"Bedford County, VA",51019
+"Rockbridge County, VA",51163,"Botetourt County, VA",51023
+"Rockbridge County, VA",51163,"Nelson County, VA",51125
+"Rockbridge County, VA",51163,"Rockbridge County, VA",51163
+"Rockbridge County, VA",51163,"Buena Vista city, VA",51530
+"Rockbridge County, VA",51163,"Lexington city, VA",51678
+"Rockingham County, VA",51165,"Albemarle County, VA",51003
+"Rockingham County, VA",51165,"Augusta County, VA",51015
+"Rockingham County, VA",51165,"Greene County, VA",51079
+"Rockingham County, VA",51165,"Page County, VA",51139
+"Rockingham County, VA",51165,"Rockingham County, VA",51165
+"Rockingham County, VA",51165,"Shenandoah County, VA",51171
+"Rockingham County, VA",51165,"Harrisonburg city, VA",51660
+"Rockingham County, VA",51165,"Hardy County, WV",54031
+"Rockingham County, VA",51165,"Pendleton County, WV",54071
+"Russell County, VA",51167,"Buchanan County, VA",51027
+"Russell County, VA",51167,"Dickenson County, VA",51051
+"Russell County, VA",51167,"Russell County, VA",51167
+"Russell County, VA",51167,"Scott County, VA",51169
+"Russell County, VA",51167,"Smyth County, VA",51173
+"Russell County, VA",51167,"Tazewell County, VA",51185
+"Russell County, VA",51167,"Washington County, VA",51191
+"Russell County, VA",51167,"Wise County, VA",51195
+"Scott County, VA",51169,"Hancock County, TN",47067
+"Scott County, VA",51169,"Hawkins County, TN",47073
+"Scott County, VA",51169,"Sullivan County, TN",47163
+"Scott County, VA",51169,"Lee County, VA",51105
+"Scott County, VA",51169,"Russell County, VA",51167
+"Scott County, VA",51169,"Scott County, VA",51169
+"Scott County, VA",51169,"Washington County, VA",51191
+"Scott County, VA",51169,"Wise County, VA",51195
+"Shenandoah County, VA",51171,"Frederick County, VA",51069
+"Shenandoah County, VA",51171,"Page County, VA",51139
+"Shenandoah County, VA",51171,"Rockingham County, VA",51165
+"Shenandoah County, VA",51171,"Shenandoah County, VA",51171
+"Shenandoah County, VA",51171,"Warren County, VA",51187
+"Shenandoah County, VA",51171,"Hardy County, WV",54031
+"Smyth County, VA",51173,"Bland County, VA",51021
+"Smyth County, VA",51173,"Grayson County, VA",51077
+"Smyth County, VA",51173,"Russell County, VA",51167
+"Smyth County, VA",51173,"Smyth County, VA",51173
+"Smyth County, VA",51173,"Tazewell County, VA",51185
+"Smyth County, VA",51173,"Washington County, VA",51191
+"Smyth County, VA",51173,"Wythe County, VA",51197
+"Southampton County, VA",51175,"Gates County, NC",37073
+"Southampton County, VA",51175,"Hertford County, NC",37091
+"Southampton County, VA",51175,"Northampton County, NC",37131
+"Southampton County, VA",51175,"Greensville County, VA",51081
+"Southampton County, VA",51175,"Isle of Wight County, VA",51093
+"Southampton County, VA",51175,"Southampton County, VA",51175
+"Southampton County, VA",51175,"Surry County, VA",51181
+"Southampton County, VA",51175,"Sussex County, VA",51183
+"Southampton County, VA",51175,"Franklin city, VA",51620
+"Southampton County, VA",51175,"Suffolk city, VA",51800
+"Spotsylvania County, VA",51177,"Caroline County, VA",51033
+"Spotsylvania County, VA",51177,"Culpeper County, VA",51047
+"Spotsylvania County, VA",51177,"Hanover County, VA",51085
+"Spotsylvania County, VA",51177,"Louisa County, VA",51109
+"Spotsylvania County, VA",51177,"Orange County, VA",51137
+"Spotsylvania County, VA",51177,"Spotsylvania County, VA",51177
+"Spotsylvania County, VA",51177,"Stafford County, VA",51179
+"Spotsylvania County, VA",51177,"Fredericksburg city, VA",51630
+"Stafford County, VA",51179,"Charles County, MD",24017
+"Stafford County, VA",51179,"Caroline County, VA",51033
+"Stafford County, VA",51179,"Culpeper County, VA",51047
+"Stafford County, VA",51179,"Fauquier County, VA",51061
+"Stafford County, VA",51179,"King George County, VA",51099
+"Stafford County, VA",51179,"Prince William County, VA",51153
+"Stafford County, VA",51179,"Spotsylvania County, VA",51177
+"Stafford County, VA",51179,"Stafford County, VA",51179
+"Stafford County, VA",51179,"Fredericksburg city, VA",51630
+"Surry County, VA",51181,"Charles City County, VA",51036
+"Surry County, VA",51181,"Isle of Wight County, VA",51093
+"Surry County, VA",51181,"James City County, VA",51095
+"Surry County, VA",51181,"Prince George County, VA",51149
+"Surry County, VA",51181,"Southampton County, VA",51175
+"Surry County, VA",51181,"Surry County, VA",51181
+"Surry County, VA",51181,"Sussex County, VA",51183
+"Surry County, VA",51181,"Newport News city, VA",51700
+"Sussex County, VA",51183,"Dinwiddie County, VA",51053
+"Sussex County, VA",51183,"Greensville County, VA",51081
+"Sussex County, VA",51183,"Prince George County, VA",51149
+"Sussex County, VA",51183,"Southampton County, VA",51175
+"Sussex County, VA",51183,"Surry County, VA",51181
+"Sussex County, VA",51183,"Sussex County, VA",51183
+"Tazewell County, VA",51185,"Bland County, VA",51021
+"Tazewell County, VA",51185,"Buchanan County, VA",51027
+"Tazewell County, VA",51185,"Russell County, VA",51167
+"Tazewell County, VA",51185,"Smyth County, VA",51173
+"Tazewell County, VA",51185,"Tazewell County, VA",51185
+"Tazewell County, VA",51185,"McDowell County, WV",54047
+"Tazewell County, VA",51185,"Mercer County, WV",54055
+"Warren County, VA",51187,"Clarke County, VA",51043
+"Warren County, VA",51187,"Fauquier County, VA",51061
+"Warren County, VA",51187,"Frederick County, VA",51069
+"Warren County, VA",51187,"Page County, VA",51139
+"Warren County, VA",51187,"Rappahannock County, VA",51157
+"Warren County, VA",51187,"Shenandoah County, VA",51171
+"Warren County, VA",51187,"Warren County, VA",51187
+"Washington County, VA",51191,"Johnson County, TN",47091
+"Washington County, VA",51191,"Sullivan County, TN",47163
+"Washington County, VA",51191,"Grayson County, VA",51077
+"Washington County, VA",51191,"Russell County, VA",51167
+"Washington County, VA",51191,"Scott County, VA",51169
+"Washington County, VA",51191,"Smyth County, VA",51173
+"Washington County, VA",51191,"Washington County, VA",51191
+"Washington County, VA",51191,"Bristol city, VA",51520
+"Westmoreland County, VA",51193,"Charles County, MD",24017
+"Westmoreland County, VA",51193,"St. Mary's County, MD",24037
+"Westmoreland County, VA",51193,"Essex County, VA",51057
+"Westmoreland County, VA",51193,"King George County, VA",51099
+"Westmoreland County, VA",51193,"Northumberland County, VA",51133
+"Westmoreland County, VA",51193,"Richmond County, VA",51159
+"Westmoreland County, VA",51193,"Westmoreland County, VA",51193
+"Wise County, VA",51195,"Harlan County, KY",21095
+"Wise County, VA",51195,"Letcher County, KY",21133
+"Wise County, VA",51195,"Pike County, KY",21195
+"Wise County, VA",51195,"Dickenson County, VA",51051
+"Wise County, VA",51195,"Lee County, VA",51105
+"Wise County, VA",51195,"Russell County, VA",51167
+"Wise County, VA",51195,"Scott County, VA",51169
+"Wise County, VA",51195,"Wise County, VA",51195
+"Wise County, VA",51195,"Norton city, VA",51720
+"Wythe County, VA",51197,"Bland County, VA",51021
+"Wythe County, VA",51197,"Carroll County, VA",51035
+"Wythe County, VA",51197,"Grayson County, VA",51077
+"Wythe County, VA",51197,"Pulaski County, VA",51155
+"Wythe County, VA",51197,"Smyth County, VA",51173
+"Wythe County, VA",51197,"Wythe County, VA",51197
+"York County, VA",51199,"Gloucester County, VA",51073
+"York County, VA",51199,"James City County, VA",51095
+"York County, VA",51199,"Mathews County, VA",51115
+"York County, VA",51199,"Northampton County, VA",51131
+"York County, VA",51199,"York County, VA",51199
+"York County, VA",51199,"Hampton city, VA",51650
+"York County, VA",51199,"Newport News city, VA",51700
+"York County, VA",51199,"Poquoson city, VA",51735
+"York County, VA",51199,"Williamsburg city, VA",51830
+"Alexandria city, VA",51510,"District of Columbia, DC",11001
+"Alexandria city, VA",51510,"Prince George's County, MD",24033
+"Alexandria city, VA",51510,"Arlington County, VA",51013
+"Alexandria city, VA",51510,"Fairfax County, VA",51059
+"Alexandria city, VA",51510,"Alexandria city, VA",51510
+"Bedford city, VA",51515,"Bedford County, VA",51019
+"Bedford city, VA",51515,"Bedford city, VA",51515
+"Bristol city, VA",51520,"Sullivan County, TN",47163
+"Bristol city, VA",51520,"Washington County, VA",51191
+"Bristol city, VA",51520,"Bristol city, VA",51520
+"Buena Vista city, VA",51530,"Rockbridge County, VA",51163
+"Buena Vista city, VA",51530,"Buena Vista city, VA",51530
+"Charlottesville city, VA",51540,"Albemarle County, VA",51003
+"Charlottesville city, VA",51540,"Charlottesville city, VA",51540
+"Chesapeake city, VA",51550,"Camden County, NC",37029
+"Chesapeake city, VA",51550,"Currituck County, NC",37053
+"Chesapeake city, VA",51550,"Chesapeake city, VA",51550
+"Chesapeake city, VA",51550,"Norfolk city, VA",51710
+"Chesapeake city, VA",51550,"Portsmouth city, VA",51740
+"Chesapeake city, VA",51550,"Suffolk city, VA",51800
+"Chesapeake city, VA",51550,"Virginia Beach city, VA",51810
+"Colonial Heights city, VA",51570,"Chesterfield County, VA",51041
+"Colonial Heights city, VA",51570,"Colonial Heights city, VA",51570
+"Colonial Heights city, VA",51570,"Petersburg city, VA",51730
+"Covington city, VA",51580,"Alleghany County, VA",51005
+"Covington city, VA",51580,"Covington city, VA",51580
+"Danville city, VA",51590,"Caswell County, NC",37033
+"Danville city, VA",51590,"Pittsylvania County, VA",51143
+"Danville city, VA",51590,"Danville city, VA",51590
+"Emporia city, VA",51595,"Greensville County, VA",51081
+"Emporia city, VA",51595,"Emporia city, VA",51595
+"Fairfax city, VA",51600,"Fairfax County, VA",51059
+"Fairfax city, VA",51600,"Fairfax city, VA",51600
+"Falls Church city, VA",51610,"Arlington County, VA",51013
+"Falls Church city, VA",51610,"Fairfax County, VA",51059
+"Falls Church city, VA",51610,"Falls Church city, VA",51610
+"Franklin city, VA",51620,"Isle of Wight County, VA",51093
+"Franklin city, VA",51620,"Southampton County, VA",51175
+"Franklin city, VA",51620,"Franklin city, VA",51620
+"Fredericksburg city, VA",51630,"Spotsylvania County, VA",51177
+"Fredericksburg city, VA",51630,"Stafford County, VA",51179
+"Fredericksburg city, VA",51630,"Fredericksburg city, VA",51630
+"Galax city, VA",51640,"Carroll County, VA",51035
+"Galax city, VA",51640,"Grayson County, VA",51077
+"Galax city, VA",51640,"Galax city, VA",51640
+"Hampton city, VA",51650,"Northampton County, VA",51131
+"Hampton city, VA",51650,"York County, VA",51199
+"Hampton city, VA",51650,"Hampton city, VA",51650
+"Hampton city, VA",51650,"Newport News city, VA",51700
+"Hampton city, VA",51650,"Norfolk city, VA",51710
+"Hampton city, VA",51650,"Poquoson city, VA",51735
+"Hampton city, VA",51650,"Portsmouth city, VA",51740
+"Hampton city, VA",51650,"Virginia Beach city, VA",51810
+"Harrisonburg city, VA",51660,"Rockingham County, VA",51165
+"Harrisonburg city, VA",51660,"Harrisonburg city, VA",51660
+"Hopewell city, VA",51670,"Chesterfield County, VA",51041
+"Hopewell city, VA",51670,"Prince George County, VA",51149
+"Hopewell city, VA",51670,"Hopewell city, VA",51670
+"Lexington city, VA",51678,"Rockbridge County, VA",51163
+"Lexington city, VA",51678,"Lexington city, VA",51678
+"Lynchburg city, VA",51680,"Amherst County, VA",51009
+"Lynchburg city, VA",51680,"Bedford County, VA",51019
+"Lynchburg city, VA",51680,"Campbell County, VA",51031
+"Lynchburg city, VA",51680,"Lynchburg city, VA",51680
+"Manassas city, VA",51683,"Prince William County, VA",51153
+"Manassas city, VA",51683,"Manassas city, VA",51683
+"Manassas city, VA",51683,"Manassas Park city, VA",51685
+"Manassas Park city, VA",51685,"Prince William County, VA",51153
+"Manassas Park city, VA",51685,"Manassas city, VA",51683
+"Manassas Park city, VA",51685,"Manassas Park city, VA",51685
+"Martinsville city, VA",51690,"Henry County, VA",51089
+"Martinsville city, VA",51690,"Martinsville city, VA",51690
+"Newport News city, VA",51700,"Isle of Wight County, VA",51093
+"Newport News city, VA",51700,"James City County, VA",51095
+"Newport News city, VA",51700,"Surry County, VA",51181
+"Newport News city, VA",51700,"York County, VA",51199
+"Newport News city, VA",51700,"Hampton city, VA",51650
+"Newport News city, VA",51700,"Newport News city, VA",51700
+"Newport News city, VA",51700,"Portsmouth city, VA",51740
+"Newport News city, VA",51700,"Suffolk city, VA",51800
+"Norfolk city, VA",51710,"Northampton County, VA",51131
+"Norfolk city, VA",51710,"Chesapeake city, VA",51550
+"Norfolk city, VA",51710,"Hampton city, VA",51650
+"Norfolk city, VA",51710,"Norfolk city, VA",51710
+"Norfolk city, VA",51710,"Portsmouth city, VA",51740
+"Norfolk city, VA",51710,"Virginia Beach city, VA",51810
+"Norton city, VA",51720,"Wise County, VA",51195
+"Norton city, VA",51720,"Norton city, VA",51720
+"Petersburg city, VA",51730,"Chesterfield County, VA",51041
+"Petersburg city, VA",51730,"Dinwiddie County, VA",51053
+"Petersburg city, VA",51730,"Prince George County, VA",51149
+"Petersburg city, VA",51730,"Colonial Heights city, VA",51570
+"Petersburg city, VA",51730,"Petersburg city, VA",51730
+"Poquoson city, VA",51735,"Northampton County, VA",51131
+"Poquoson city, VA",51735,"York County, VA",51199
+"Poquoson city, VA",51735,"Hampton city, VA",51650
+"Poquoson city, VA",51735,"Poquoson city, VA",51735
+"Portsmouth city, VA",51740,"Chesapeake city, VA",51550
+"Portsmouth city, VA",51740,"Hampton city, VA",51650
+"Portsmouth city, VA",51740,"Newport News city, VA",51700
+"Portsmouth city, VA",51740,"Norfolk city, VA",51710
+"Portsmouth city, VA",51740,"Portsmouth city, VA",51740
+"Portsmouth city, VA",51740,"Suffolk city, VA",51800
+"Radford city, VA",51750,"Montgomery County, VA",51121
+"Radford city, VA",51750,"Pulaski County, VA",51155
+"Radford city, VA",51750,"Radford city, VA",51750
+"Richmond city, VA",51760,"Chesterfield County, VA",51041
+"Richmond city, VA",51760,"Henrico County, VA",51087
+"Richmond city, VA",51760,"Richmond city, VA",51760
+"Roanoke city, VA",51770,"Roanoke County, VA",51161
+"Roanoke city, VA",51770,"Roanoke city, VA",51770
+"Roanoke city, VA",51770,"Salem city, VA",51775
+"Salem city, VA",51775,"Roanoke County, VA",51161
+"Salem city, VA",51775,"Roanoke city, VA",51770
+"Salem city, VA",51775,"Salem city, VA",51775
+"Staunton city, VA",51790,"Augusta County, VA",51015
+"Staunton city, VA",51790,"Staunton city, VA",51790
+"Suffolk city, VA",51800,"Camden County, NC",37029
+"Suffolk city, VA",51800,"Gates County, NC",37073
+"Suffolk city, VA",51800,"Isle of Wight County, VA",51093
+"Suffolk city, VA",51800,"Southampton County, VA",51175
+"Suffolk city, VA",51800,"Chesapeake city, VA",51550
+"Suffolk city, VA",51800,"Newport News city, VA",51700
+"Suffolk city, VA",51800,"Portsmouth city, VA",51740
+"Suffolk city, VA",51800,"Suffolk city, VA",51800
+"Virginia Beach city, VA",51810,"Currituck County, NC",37053
+"Virginia Beach city, VA",51810,"Northampton County, VA",51131
+"Virginia Beach city, VA",51810,"Chesapeake city, VA",51550
+"Virginia Beach city, VA",51810,"Hampton city, VA",51650
+"Virginia Beach city, VA",51810,"Norfolk city, VA",51710
+"Virginia Beach city, VA",51810,"Virginia Beach city, VA",51810
+"Waynesboro city, VA",51820,"Augusta County, VA",51015
+"Waynesboro city, VA",51820,"Waynesboro city, VA",51820
+"Williamsburg city, VA",51830,"James City County, VA",51095
+"Williamsburg city, VA",51830,"York County, VA",51199
+"Williamsburg city, VA",51830,"Williamsburg city, VA",51830
+"Winchester city, VA",51840,"Frederick County, VA",51069
+"Winchester city, VA",51840,"Winchester city, VA",51840
