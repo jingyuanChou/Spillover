@@ -1,4 +1,4 @@
-# Spillover-Aware Simulation Analysis (Graph/Hypergraph SCI)
+# Spillover-Aware Simulation Analysis
 
 This repo contains code for **simulation-based evaluation of spillover effects** on networks, with models that can operate on a **plain graph** (pairwise edges)
 
