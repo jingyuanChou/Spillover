@@ -1,8 +1,6 @@
 # Spillover-Aware Simulation Analysis (Graph/Hypergraph SCI)
 
-This repo contains code for **simulation-based evaluation of spillover effects** on networks, with models that can operate on either:
-- a **plain graph** (pairwise edges), or
-- a **hypergraph** (group / high-order interactions).
+This repo contains code for **simulation-based evaluation of spillover effects** on networks, with models that can operate on a **plain graph** (pairwise edges)
 
 The main entry point is `Spillover_model.py`.
 
@@ -13,8 +11,6 @@ The main entry point is `Spillover_model.py`.
 Core files (most important):
 - **`Spillover_model.py`**: main training / evaluation script (ITE + spillover experiments, CLI args, training loop).
 - **`Model.py`**: model definitions
-  - `GraphSCI`: graph-based encoder + potential outcome heads
-  - `HyperSCI`: hypergraph-based encoder + potential outcome heads
 - **`utils.py`**: utilities (projection hypergraph→graph, Wasserstein balancing distance, sparse conversions, etc.)
 - **`data_simulation.py`**: simulation routines (generate outcomes / “true” counterfactual outcomes under neighbor flips).
 - **`data_preprocessing.py`**: preprocessing for datasets (e.g., GoodReads / Microsoft contact style inputs).
